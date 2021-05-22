@@ -55,16 +55,16 @@
 			3.6.1 Shop cart
 			3.6.2 Checkout
 			3.6.3 Order
-		3.7 Shop Grid + List	
+		3.7 Shop Grid + List
 		3.8 Product Collection page
 		3.9 Product list
-		3.10 Grid 
+		3.10 Grid
 	4. Reponsive
 		4.1 Desktop
 		4.2 Table
 		4.3 Mobile
-			
-		
+
+
 -------------------------------------------------------------------*/
 /** 1.1 Variable **/
 /**   1.2 Mixin  **/
@@ -193,7 +193,7 @@ ol {
 
 /*
 	2.1 Block
-	
+
  */
 .block {
   display: inline-block;
@@ -343,7 +343,7 @@ ol {
 /*
     2.3 Component
         2.3.1 Owl Carousel
-        
+
  */
 .owl-nav .owl-prev {
   position: absolute;
@@ -981,7 +981,7 @@ div.brand {
 
 /*
         2.5 Typography
-        
+
  */
 /* Icons */
 .fa-1 {
@@ -1519,7 +1519,7 @@ div.brand {
 
 /*
     2.6 Form
-        
+
  */
 .sub-form .form-control {
   height: 40px;
@@ -1715,7 +1715,7 @@ div.brand {
 
 /*
         2.7 Ribbon
-    
+
  */
 .label-1, .btn-checkout, .btn-update-cart, .btn-send-message, .btn-search, .btn-order, .btn-submit-comment {
   display: inline-block;
@@ -2135,13 +2135,13 @@ div.brand {
   margin-right: 15px; }
 
 .icon-cameraver1 {
-  background: url("../img/photo-camera.svg") no-repeat center; }
+  background: url("../img/smartphone.svg") no-repeat center; }
 
 .icon-lap, .level0 > li:nth-child(2) > a:after {
   background: url("../img/laptob.svg") no-repeat center; }
 
 .icon-phone, .level0 > li:nth-child(3) > a:after {
-  background: url("../img/smartphone.svg") no-repeat center; }
+  background: url("../img/gamepad.svg") no-repeat center; }
 
 .icon-game, .level0 > li:nth-child(4) > a:after {
   background: url("../img/gamepad.svg") no-repeat center; }
@@ -2153,7 +2153,7 @@ div.brand {
   background: url("../img/mouse.svg") no-repeat center; }
 
 .icon-camera, .level0 > li:nth-child(1) > a:after {
-  background: url("../img/photo-camera.svg") no-repeat center; }
+  background: url("../img/smartphone.svg") no-repeat center; }
 
 .icon-washing, .level0 > li:nth-child(7) > a:after {
   background: url("../img/washing-machine.svg") no-repeat center; }
@@ -2402,7 +2402,7 @@ span.phone, .top-nav .nav-search {
   margin-right: 3px; }
 
 /*==============================
-          -- Logo -- 
+          -- Logo --
 ==============================*/
 .bottom {
   padding: 24px 0; }
@@ -2518,7 +2518,7 @@ span.phone, .top-nav .nav-search {
   margin-left: 20px; }
 
 /*==============================
-          -- Search -- 
+          -- Search --
 ==============================*/
 .search, .top-nav .nav-search {
   float: right;
@@ -2555,7 +2555,7 @@ span.phone, .top-nav .nav-search {
   margin-right: 7px; }
 
 /*==============================
-          -- DEAL -- 
+          -- DEAL --
 ==============================*/
 .deal {
   float: right;
@@ -3900,7 +3900,7 @@ form.search-form.v2, .top-nav .nav-search form.v2.search-form.v3, form.v2.search
   .menubar.v2 {
     text-align: unset; } }
 /*
-    3.10 Grid   
+    3.10 Grid
  */
 @media (min-width: 1200px) {
   .container {
@@ -4812,8 +4812,8 @@ form.search-form.v2, .top-nav .nav-search form.v2.search-form.v3, form.v2.search
       margin-bottom: 30px; } }
 
 /*
-    3.7 Shop Grid + List    
-    
+    3.7 Shop Grid + List
+
  */
 .widget-banner {
   position: relative; }
@@ -5977,7 +5977,7 @@ table.table.table-total tbody tr td {
 
 /** 3.5 About us
         3.5.1 About us
-        3.5.2 Contact Us  
+        3.5.2 Contact Us
 **/
 .heading-about {
   margin-bottom: 19px; }
@@ -6091,11 +6091,11 @@ textarea#message {
 .error-ff {
   width: 320px; }
 
-/*  
+/*
  * 3.4 Blog
         3.4.1 Blog Single
         3.4.2 Blog list
- * 
+ *
  */
 .blog-page {
   padding-bottom: 115px;
